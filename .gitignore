@@ -1,0 +1,10 @@
+# Default
+.idea
+
+# Node
+node_modules
+
+# Folders
+build
+
+package-lock.json
